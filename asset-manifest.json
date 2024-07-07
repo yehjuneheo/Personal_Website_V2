@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9bad6909.css",
-    "main.js": "/static/js/main.45e49649.js",
+    "main.js": "/static/js/main.d5091188.js",
     "static/media/neurapi_image.png": "/static/media/neurapi_image.24c81b326d09bfaaee25.png",
     "static/media/image_cog.png": "/static/media/image_cog.97d8c6f520ea36b568bf.png",
     "static/media/meetingu-cover3.png": "/static/media/meetingu-cover3.8abba1de11a72d57b528.png",
@@ -12,6 +12,7 @@
     "static/media/gan3.jpg": "/static/media/gan3.4ec81470517b3e6670c6.jpg",
     "static/media/fakenews.png": "/static/media/fakenews.393028b68196a233510a.png",
     "static/media/ut2.jpg": "/static/media/ut2.b823b7f535ff93c90cd2.jpg",
+    "static/media/awsimage.jpg": "/static/media/awsimage.2d21a39b62a39ecb52b6.jpg",
     "static/media/loss2.jpg": "/static/media/loss2.5565643cbf1f86d3a62f.jpg",
     "static/media/utalk2.png": "/static/media/utalk2.aa278c76644ec7dd76dc.png",
     "static/media/cloudcraft-icon.png": "/static/media/cloudcraft-icon.2ce5c4da295f07c0fbc0.png",
@@ -19,10 +20,10 @@
     "static/media/prisma-icon-2.png": "/static/media/prisma-icon-2.f544e57be3afd4500f22.png",
     "index.html": "/index.html",
     "main.9bad6909.css.map": "/static/css/main.9bad6909.css.map",
-    "main.45e49649.js.map": "/static/js/main.45e49649.js.map"
+    "main.d5091188.js.map": "/static/js/main.d5091188.js.map"
   },
   "entrypoints": [
     "static/css/main.9bad6909.css",
-    "static/js/main.45e49649.js"
+    "static/js/main.d5091188.js"
   ]
 }
