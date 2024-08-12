@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9bad6909.css",
-    "main.js": "/static/js/main.544f178a.js",
+    "main.js": "/static/js/main.b3907403.js",
     "static/media/neurapi_image.png": "/static/media/neurapi_image.24c81b326d09bfaaee25.png",
     "static/media/image_cog.png": "/static/media/image_cog.97d8c6f520ea36b568bf.png",
     "static/media/meetingu-cover3.png": "/static/media/meetingu-cover3.8abba1de11a72d57b528.png",
@@ -15,15 +15,16 @@
     "static/media/awsimage.jpg": "/static/media/awsimage.2d21a39b62a39ecb52b6.jpg",
     "static/media/loss2.jpg": "/static/media/loss2.5565643cbf1f86d3a62f.jpg",
     "static/media/utalk2.png": "/static/media/utalk2.aa278c76644ec7dd76dc.png",
+    "static/media/architecture_for2.png": "/static/media/architecture_for2.81cedcc0c69af6b618e3.png",
     "static/media/cloudcraft-icon.png": "/static/media/cloudcraft-icon.2ce5c4da295f07c0fbc0.png",
     "static/media/nextjs-icon.png": "/static/media/nextjs-icon.48ddc8121a0fcb543d64.png",
     "static/media/prisma-icon-2.png": "/static/media/prisma-icon-2.f544e57be3afd4500f22.png",
     "index.html": "/index.html",
     "main.9bad6909.css.map": "/static/css/main.9bad6909.css.map",
-    "main.544f178a.js.map": "/static/js/main.544f178a.js.map"
+    "main.b3907403.js.map": "/static/js/main.b3907403.js.map"
   },
   "entrypoints": [
     "static/css/main.9bad6909.css",
-    "static/js/main.544f178a.js"
+    "static/js/main.b3907403.js"
   ]
 }
