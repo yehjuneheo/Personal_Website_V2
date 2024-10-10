@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.9bad6909.css",
-    "main.js": "/static/js/main.047d87a8.js",
-    "static/media/neurapi_image.png": "/static/media/neurapi_image.24c81b326d09bfaaee25.png",
-    "static/media/image_cog.png": "/static/media/image_cog.97d8c6f520ea36b568bf.png",
-    "static/media/meetingu-cover3.png": "/static/media/meetingu-cover3.8abba1de11a72d57b528.png",
-    "static/media/v1.png": "/static/media/v1.5f8a413927be98459ab5.png",
-    "static/media/raft2.png": "/static/media/raft2.50fce0340ca6f609d16c.png",
-    "static/media/game_img.png": "/static/media/game_img.54b7845fe1d7c8405512.png",
-    "static/media/cnn.jpg": "/static/media/cnn.6f603ef2fbf67323cfa7.jpg",
-    "static/media/gan3.jpg": "/static/media/gan3.4ec81470517b3e6670c6.jpg",
-    "static/media/fakenews.png": "/static/media/fakenews.393028b68196a233510a.png",
-    "static/media/ut2.jpg": "/static/media/ut2.b823b7f535ff93c90cd2.jpg",
-    "static/media/awsimage.jpg": "/static/media/awsimage.2d21a39b62a39ecb52b6.jpg",
-    "static/media/loss2.jpg": "/static/media/loss2.5565643cbf1f86d3a62f.jpg",
-    "static/media/utalk2.png": "/static/media/utalk2.aa278c76644ec7dd76dc.png",
-    "static/media/architecture_for2.png": "/static/media/architecture_for2.81cedcc0c69af6b618e3.png",
-    "static/media/cloudcraft-icon.png": "/static/media/cloudcraft-icon.2ce5c4da295f07c0fbc0.png",
-    "static/media/nextjs-icon.png": "/static/media/nextjs-icon.48ddc8121a0fcb543d64.png",
-    "static/media/prisma-icon-2.png": "/static/media/prisma-icon-2.f544e57be3afd4500f22.png",
-    "index.html": "/index.html",
-    "main.9bad6909.css.map": "/static/css/main.9bad6909.css.map",
-    "main.047d87a8.js.map": "/static/js/main.047d87a8.js.map"
+    "main.css": "./static/css/main.9bad6909.css",
+    "main.js": "./static/js/main.fff270e8.js",
+    "static/media/neurapi_image.png": "./static/media/neurapi_image.24c81b326d09bfaaee25.png",
+    "static/media/image_cog.png": "./static/media/image_cog.97d8c6f520ea36b568bf.png",
+    "static/media/meetingu-cover3.png": "./static/media/meetingu-cover3.8abba1de11a72d57b528.png",
+    "static/media/v1.png": "./static/media/v1.5f8a413927be98459ab5.png",
+    "static/media/raft2.png": "./static/media/raft2.50fce0340ca6f609d16c.png",
+    "static/media/game_img.png": "./static/media/game_img.54b7845fe1d7c8405512.png",
+    "static/media/cnn.jpg": "./static/media/cnn.6f603ef2fbf67323cfa7.jpg",
+    "static/media/gan3.jpg": "./static/media/gan3.4ec81470517b3e6670c6.jpg",
+    "static/media/fakenews.png": "./static/media/fakenews.393028b68196a233510a.png",
+    "static/media/ut2.jpg": "./static/media/ut2.b823b7f535ff93c90cd2.jpg",
+    "static/media/awsimage.jpg": "./static/media/awsimage.2d21a39b62a39ecb52b6.jpg",
+    "static/media/loss2.jpg": "./static/media/loss2.5565643cbf1f86d3a62f.jpg",
+    "static/media/utalk2.png": "./static/media/utalk2.aa278c76644ec7dd76dc.png",
+    "static/media/architecture_for2.png": "./static/media/architecture_for2.81cedcc0c69af6b618e3.png",
+    "static/media/cloudcraft-icon.png": "./static/media/cloudcraft-icon.2ce5c4da295f07c0fbc0.png",
+    "static/media/nextjs-icon.png": "./static/media/nextjs-icon.48ddc8121a0fcb543d64.png",
+    "static/media/prisma-icon-2.png": "./static/media/prisma-icon-2.f544e57be3afd4500f22.png",
+    "index.html": "./index.html",
+    "main.9bad6909.css.map": "./static/css/main.9bad6909.css.map",
+    "main.fff270e8.js.map": "./static/js/main.fff270e8.js.map"
   },
   "entrypoints": [
     "static/css/main.9bad6909.css",
-    "static/js/main.047d87a8.js"
+    "static/js/main.fff270e8.js"
   ]
 }
